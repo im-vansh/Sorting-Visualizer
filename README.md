@@ -28,5 +28,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 Acknowledgements
 Thanks to all the open-source contributors who have provided valuable resources and inspiration for this project.
 
-Contact
-If you have any questions or feedback, please feel free to contact me at devanshguptaucer@gmail.com.
+
